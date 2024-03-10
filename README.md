@@ -1,6 +1,6 @@
 # PRO2-Fib
 
-Pràctica de l'assignatura de PRO2
+Pràctica de l'assignatura de PRO2 - 
 *Nota Total -> 10*
 
 ### Realitzat per:
